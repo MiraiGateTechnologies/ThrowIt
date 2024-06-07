@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 7d0f87addfce6144b968ccd8af3a31a2
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nine_BackView_Edden_Garden1
+    second: {fileID: 2100000, guid: 056a6e69c74a61740877e12a0496650c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nine_BackView_Edden_Garden_Crowd_01
+    second: {fileID: 2100000, guid: 7fa3cf91d13c8e64fbdd4e40f146e158, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nine_BackView_Edden_Garden_Crowd_02
+    second: {fileID: 2100000, guid: 571fcc78bb95f3740b1105dfb06253ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nine_BackView_Edden_Garden_Crowd_02.001
+    second: {fileID: 2100000, guid: fb08615d3769d2c48baecb800b21af90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nine_BackView_Edden_Garden_Flood_Light
+    second: {fileID: 2100000, guid: d9a143131de5e9e48bea138c36d85c80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nine_BackView_Edden_Garden_Grass02
+    second: {fileID: 2100000, guid: 8487373e3d2c3ce478a06e5a59fdd69f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nine_BackView_Edden_Garden_Ground1
+    second: {fileID: 2100000, guid: 92359ccca4e12c7488f7b9d3c85ebaea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nine_BackView_Edden_Garden_Pitch
+    second: {fileID: 2100000, guid: 371bbed1ad2e9ab4b927d8939b008378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nine_BackView_Edden_Garden_Roof
+    second: {fileID: 2100000, guid: ce2fae891f5e6ba459bfe06eb3aae845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stadium_Flood_Light_emmision
+    second: {fileID: 2100000, guid: f01d5d21cc6794e4fbfcfa9a8da58fc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: 18fb316ac2f882a49a68ba1ca77e277a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 90Nine_BackView_Edden_Garden_Branding_miraigate
+    second: {fileID: 2800000, guid: 7bf4b54001cba7b41b8bb131f9f2839e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 90Nine_BackView_Edden_Garden_Crowd_V01
+    second: {fileID: 2800000, guid: 25f49f12b0d7bbe4e96df0d6bc14f5bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 90Nine_BackView_Edden_Garden_Crowd_V02
+    second: {fileID: 2800000, guid: e65a328128a420645a82df087c5c4c34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 90Nine_BackView_Edden_Garden_Flood_Light_V01
+    second: {fileID: 2800000, guid: 51f0ef6137742aa4eaacb053b08c49b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 90Nine_BackView_Edden_Garden_Grass01
+    second: {fileID: 2800000, guid: 551630d309039994783a8b016eba4963, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 90Nine_BackView_Edden_Garden_Grass02
+    second: {fileID: 2800000, guid: 01c1497207b22e8449f3a7e39543c4fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 90Nine_BackView_Edden_Garden_Pitch
+    second: {fileID: 2800000, guid: 282106e0a9bea9d41bc7a88e30d521cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Edden_Garden_Stadium_Roof_V02
+    second: {fileID: 2800000, guid: ebb75f0e4a65982428a4fa98272d1f5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Miraigate full
+    second: {fileID: 2800000, guid: f944808cecd3ca84aa221562a91d538a, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 100
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
