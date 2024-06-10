@@ -42,6 +42,10 @@ public class FusionConnector : MonoBehaviour, INetworkRunnerCallbacks
     public TextMeshProUGUI waitingforSecondsPlayerTimerText;
     public Button restartGame;
     public int connectedPlayerCount=0;
+
+    [SerializeField] CoinManager coinManager;
+    [SerializeField] TextMeshProUGUI coinCounter;
+    
     public string LocalRoomName { get; set; }
     public bool isRoomOpen { get; set; } = true;
 
@@ -657,6 +661,8 @@ public class FusionConnector : MonoBehaviour, INetworkRunnerCallbacks
                         player1ResultScoreTextUI.text = player1Player.Score.ToString();
                         player2ResultScoreTextUI.text = player2Player.Score.ToString();
                         ToastNotification.instance.ShowToast("You won amount of Rs. " + netWinnings, 3.0f);
+                        coinManager.RewardPileCoin();
+                        coinCounter.text=netWinnings.ToString();
                     }
                     else
                     {
@@ -688,6 +694,9 @@ public class FusionConnector : MonoBehaviour, INetworkRunnerCallbacks
 
                     
                     ToastNotification.instance.ShowToast("You won amount of Rs. " + netWinnings, 3.0f);
+                    coinManager.RewardPileCoin();
+                    coinCounter.text = netWinnings.ToString();
+
                 }
                 else
                 {

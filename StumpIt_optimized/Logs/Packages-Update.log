@@ -56,3 +56,11 @@ Update Mode: mergeDefaultDependencies
 
 The following packages were added:
   com.unity.postprocessing@3.4.0
+
+=== Fri Jun  7 12:40:52 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.nuget.mono-cecil from version 1.10.2 to 1.11.4
